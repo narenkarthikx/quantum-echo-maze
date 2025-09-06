@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Quantum Echo Maze - Interactive Quantum Physics Game",
   description:
     "Learn quantum physics through interactive maze navigation and quantum echo mechanics. Explore decoherence, fidelity, and quantum coherence in an engaging educational game.",
-  generator: "v0.app",
+  generator: "Quantum Echo Maze",
   keywords: [
     "quantum physics",
     "educational game",
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     "decoherence",
     "interactive learning",
   ],
-  authors: [{ name: "v0.app" }],
+  authors: [{ name: "Quantum Echo Maze" }],
   openGraph: {
     title: "Quantum Echo Maze",
     description: "Interactive quantum physics learning through maze navigation",
